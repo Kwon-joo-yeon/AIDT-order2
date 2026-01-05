@@ -1,0 +1,5 @@
+{
+  "name": "YBM AI AIDT 주문 시스템",
+  "description": "YBM AI 디지털 교육자료(AIDT)를 선택하고 견적 확인 및 주문을 진행할 수 있는 원스톱 주문 플랫폼입니다. 구글 스프레드시트 연동 준비가 된 세련된 UI를 제공합니다.",
+  "requestFramePermissions": []
+}
